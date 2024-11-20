@@ -1,0 +1,17 @@
+.pink {
+    background-color: pink;
+    font-family: Verdana sans-serif;
+}
+.big {
+    font-size: 24px;
+}
+
+#id2 {
+    color: blue;
+    font-size: 36px;
+}
+#id4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
